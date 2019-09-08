@@ -20,6 +20,11 @@ Projeto utilizado na talk:
   - Inciante
   
 ### Rodando
+Criar o banco de dados no postgreSQL chamado:
+```
+ ola
+```
+
 Dentro da raiz do projeto digite o seguinte comando:
   ```
   ./mvnw compile quarkus:dev.
